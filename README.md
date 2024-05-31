@@ -14,9 +14,7 @@ ________________________________________________________________________________
    🚀 Skills
             
             Programming Languages: Python, C
-            Web Development: 
-            DevOps Tools: 
-            Machine Learning Frameworks:
+            Web Development: HTML, CSS, JavaScript, Php
             Databases: MySQL
          
    🌐 Connect With Me
