@@ -7,9 +7,9 @@ ________________________________________________________________________________
    
    💻 Passionate About:
             
-            Software Development
+            Web Development
             DevOps and Continuous Integration/Continuous Deployment (CI/CD)
-            Artificial Intelligence & Machine Learning
+            Cloud Computing
 
    🚀 Skills
             
