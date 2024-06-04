@@ -1,9 +1,9 @@
 Hi there! 👋
-I'm Kavindu Sandaruwan, a Computer Science undergraduate with a passion for software development, DevOps, and AI & Machine Learning.
+I'm Kavindu Sandaruwan, a Computer Science undergraduate with a passion for Web development, DevOps, and Cloud Computing.
 _____________________________________________________________________________________________________________________________________
 
 🌟 About Me
-   📚 Currently Studying: Computer Science at NSBM Green university.
+   📚 Currently Studying: Bsc(Hons)Computer Science in Plymouth University United Kingdom.
    
    💻 Passionate About:
             
