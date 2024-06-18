@@ -4,12 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kavindu+Sandaruwan!;" />
 </h1>
 
-<h3 align="center">A passionate Data Engineer from Sri Lanka</h3>
+<h3 align="center">A passionate Cloud Engineer from Sri Lanka</h3>
 <br/>
 <br/>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
-- 🌱 I’m currently learning **Computer Science & Data Engineering**
+- 🌱 I’m currently learning **Computer Science & Cloud Computing**
   
 - 💬 Ask me about **Python, SQL, AWS, Web development**
   
