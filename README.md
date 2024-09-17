@@ -9,9 +9,9 @@
 <br/>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
-- 🌱 I’m currently learning **Computer Science, Data Engineering & Artifical Intelligence and Machine Learning**
+- 🌱 I’m currently learning **Computer Science, DevOps & Cloud Computing and Artifical Intelligence and Machine Learning**
   
-- 💬 Ask me about **Python, C, AWS, Azure, Web development**
+- 💬 Ask me about **Python, C, C#, AWS, Azure, Web development**
   
 - 📫 How to reach me **sandaruwankavindu059@gmail.com**
   
