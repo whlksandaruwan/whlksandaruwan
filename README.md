@@ -13,7 +13,7 @@
   
 - 💬 Ask me about **Python, C, C#, AWS, Azure, Web development**
   
-- 📫 How to reach me **sandaruwankavindu059@gmail.com**
+- 📫 How to reach me **kavindu2003sandaruwan@gmail.com**
   
 - ⚡ Fun fact **The first computer "bug" was a real moth found in a computer in 1947! 🐛**
   
